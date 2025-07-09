@@ -9,7 +9,7 @@ I'm a BCom Honours Investment Management student at the University of Pretoria, 
 
 ### 👨‍💻 About Me
 
-A highly resilient and ambitious student with a proven ability to overcome significant adversity and excel. After navigating a serious injury in 2023, I orchestrated a significant academic and personal comeback, demonstrating exceptional determination, focus, and maturity. This experience, combined with a strong academic foundation in financial analysis and four years in client-facing roles, has equipped me with a unique combination of technical skill, mental fortitude, and interpersonal excellence.
+An ambitious student with a strong academic foundation in financial analysis and equity valuation. This is complemented by over two years of client-focused experience in fast-paced environments, which has equipped me with essential skills in communication, teamwork, and adaptability. I am eager to apply my analytical abilities and collaborative spirit to contribute meaningfully to informed financial decision-making.
 
 * 🔭 I’m currently working on my Honours research report on **Risk Premia in South African Multi-Asset Flexible Funds**.
 * 🌱 I’m currently deepening my understanding of **Python for financial data analysis** and exploring **systematic trading strategies**.
