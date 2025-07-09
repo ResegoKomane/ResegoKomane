@@ -1,8 +1,4 @@
-Of course. Here is the complete, corrected text that you can copy and paste directly into the `README.md` file on your GitHub profile.
 
-I have fixed the broken LinkedIn badge link and cleaned up the project table for you.
-
-```markdown
 # Hi there, I'm Resego Komane 👋
 
 <a href="https://www.linkedin.com/in/resego-komane-37b6a8276/" target="_blank">
